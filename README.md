@@ -1,3 +1,4 @@
+![Display of functionality](https://user-images.githubusercontent.com/79435941/113489523-c4091e00-9492-11eb-8ffa-afbd1cfd8e6f.png)
 # Short-Coding-Quiz
 
 https://patrickbdevaney.github.io/Short-Coding-Quiz/index.html
