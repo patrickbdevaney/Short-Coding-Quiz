@@ -80,7 +80,7 @@ if (remainingseconds > 0) {
             optionslist.textContent = `${i+1}. ${optionsa[i]}`;
             optionslist.className = "options";
             optionslist.setAttribute("data-choice-nb", i+1);
-            list.appendChild(optionsListItem);
+            list.appendChild(optionslist);
         }
 //subtracts time
         div.appendChild(list);
