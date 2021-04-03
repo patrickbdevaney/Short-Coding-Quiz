@@ -1,3 +1,5 @@
+event.preventDefault();
+
 function button(){
     document.getElementById("buttonAppear").innerHTML = '<button onclick="secondFunction()"></button>';
 }
@@ -81,6 +83,7 @@ if (remainingseconds > 0) {
             optionslist.className = "options";
             optionslist.setAttribute("data-choice-nb", i+1);
             list.appendChild(optionslist);
+            
         }
 //subtracts time
         div.appendChild(list);
