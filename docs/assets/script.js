@@ -1,4 +1,4 @@
-event.preventDefault();
+
 
 function button(){
     document.getElementById("buttonAppear").innerHTML = '<button onclick="secondFunction()"></button>';
